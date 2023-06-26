@@ -1,0 +1,14 @@
+.name{
+    margin: 30px;
+    padding: 10px;
+    border: 15px,solid,rgb(110, 91, 12);
+    border-radius: 50px;
+    background-color: azure;
+}
+.increase{
+    color: green;
+}
+
+.decrease{
+    color: red;
+}
